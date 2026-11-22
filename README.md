@@ -1,6 +1,6 @@
 # Hi，我是 Rose Zhang 👋
 
-**招聘顾问**，专注三个方向 —— 量化（技术 / QD）、Web3、智能硬件。
+**招聘顾问**，专注两个方向 —— 量化（技术 / QD）、Web3。
 
 我不群发 JD，也不在简历上编故事：**每个岗位都能点进去看完整 JD、真实薪资区间和来源链接**，你直接投或者找我聊都行。
 
@@ -10,22 +10,16 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📈 量化 · 技术 / QD
 Quant Developer、Quant Researcher、交易系统与低延迟基础设施、撮合 / 风控工程、回测与数据管道
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 Web3
 交易系统（C++）、协议工程、链上 / 衍生品、做市与风险、交易所连接与行情
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 智能硬件
-嵌入式固件、BSP / RTOS、机器人（CAN-FD / EtherCAT）、电力电子与电机控制
 
 </td>
 </tr>
@@ -43,9 +37,8 @@ Quant Developer、Quant Researcher、交易系统与低延迟基础设施、撮�
 | [#2](https://github.com/zhangmiao067/hr-open-roles/issues/2) | Quantitative Developer | Midpoint Markets | 量化 / 加密做市 | 🇺🇸 旧金山 |
 | [#3](https://github.com/zhangmiao067/hr-open-roles/issues/3) | Quantitative Developer | QCP Capital | 量化 / 数字资产 | 🇸🇬 新加坡 |
 | [#4](https://github.com/zhangmiao067/hr-open-roles/issues/4) | C++ Trading Developer | Crypto.com | Web3 / 交易系统 | 🇭🇰 香港 |
-| [#5](https://github.com/zhangmiao067/hr-open-roles/issues/5) | Embedded & Firmware Engineer | NEURA Robotics | 智能硬件 / 机器人 | 🇩🇪 德国 |
 
-➡️ **[查看全部 open 岗位](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen)** · [量化 `quant`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aquant) · [Web3 `web3`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aweb3) · [智能硬件 `smart-hardware`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Asmart-hardware)
+➡️ **[查看全部 open 岗位](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen)** · [量化 `quant`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aquant) · [Web3 `web3`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aweb3)
 
 ---
 
