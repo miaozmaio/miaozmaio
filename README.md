@@ -31,12 +31,7 @@ Quant Developer、Quant Researcher、交易系统与低延迟基础设施、撮�
 
 岗位全部以 Issue 形式发布在 **[hr-open-roles](https://github.com/zhangmiao067/hr-open-roles)**，点开就是完整 JD：
 
-| # | 岗位 | 公司 | 方向 | 地点 |
-| --- | --- | --- | --- | --- |
-| [#1](https://github.com/zhangmiao067/hr-open-roles/issues/1) | Quantitative Developer \| Pricing \| Python | BlockTech | 量化 / QD | 🇳🇱 阿姆斯特丹 |
-| [#2](https://github.com/zhangmiao067/hr-open-roles/issues/2) | Quantitative Developer | Midpoint Markets | 量化 / 加密做市 | 🇺🇸 旧金山 |
-| [#3](https://github.com/zhangmiao067/hr-open-roles/issues/3) | Quantitative Developer | QCP Capital | 量化 / 数字资产 | 🇸🇬 新加坡 |
-| [#4](https://github.com/zhangmiao067/hr-open-roles/issues/4) | C++ Trading Developer | Crypto.com | Web3 / 交易系统 | 🇭🇰 香港 |
+> 🕐 新一批岗位正在整理，发布后会立刻更新到这里；也可以直接去 [岗位板](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen) 看实时列表。
 
 ➡️ **[查看全部 open 岗位](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen)** · [量化 `quant`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aquant) · [Web3 `web3`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aweb3)
 
