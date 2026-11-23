@@ -8,22 +8,8 @@
 
 ## 🎯 我在招什么
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 量化 · 技术 / QD
-Quant Developer、Quant Researcher、交易系统与低延迟基础设施、撮合 / 风控工程、回测与数据管道
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web3
-交易系统（C++）、协议工程、链上 / 衍生品、做市与风险、交易所连接与行情
-
-</td>
-</tr>
-</table>
+### 📈 量化
+Quant Developer、C++ 交易系统开发、数据开发工程师、后端开发工程师、SRE、DevOps 等
 
 ---
 
@@ -33,7 +19,7 @@ Quant Developer、Quant Researcher、交易系统与低延迟基础设施、撮�
 
 > 🕐 新一批岗位正在整理，发布后会立刻更新到这里；也可以直接去 [岗位板](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen) 看实时列表。
 
-➡️ **[查看全部 open 岗位](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen)** · [量化 `quant`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aquant) · [Web3 `web3`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aweb3)
+➡️ **[查看全部 open 岗位](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen)** · [量化 `quant`](https://github.com/zhangmiao067/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aquant)
 
 ---
 
