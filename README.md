@@ -37,6 +37,6 @@ Quant Developer、C++ 交易系统开发、数据开发工程师、后端开发�
 
 - **信息保密**：简历保密，初步沟通后如有合适职位，会进一步添加微信沟通，简历未经允许不会对任何企业投递
 - **说真话**：不合适直接讲，不吊着；无论简历背景是否合适，每一条投递信息都会回复
-- **岗位必须可追溯**：每条岗位都附来源链接，薪资写实；不符合规则的岗位在仓库里会被自动拦下
+- **岗位真实可靠**：每条岗位都附带可参考的职位详情，是最近的急招职位
 
 <sub>📌 岗位板：[hr-open-roles](https://github.com/zhangmiao067/hr-open-roles) · 发布规则：[ISSUE_RULES.md](https://github.com/zhangmiao067/hr-open-roles/blob/main/ISSUE_RULES.md)</sub>
