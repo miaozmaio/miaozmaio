@@ -40,4 +40,4 @@ Quant Developer、C++ 交易系统开发、数据开发工程师、后端开发�
 - **说真话**：不合适直接讲，不吊着；合适会告诉你流程、面试官背景、大致时间线
 - **岗位必须可追溯**：每条岗位都附来源链接，薪资写实；不符合规则的岗位在仓库里会被自动拦下
 
-<sub>📌 岗位板：[hr-open-roles](https://github.com/zhangmiao067/hr-open-roles)</sub>
+<sub>📌 岗位板：[hr-open-roles](https://github.com/zhangmiao067/hr-open-roles) · 发布规则：[ISSUE_RULES.md](https://github.com/zhangmiao067/hr-open-roles/blob/main/ISSUE_RULES.md)</sub>
