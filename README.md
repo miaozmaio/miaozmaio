@@ -26,7 +26,8 @@ Quant Developer、C++ 交易系统开发、数据开发工程师、后端开发�
 ## 📮 找我 / 投递 / 自荐
 
 - 💬 **一句话打招呼、自荐、推荐候选人、招人方找我** → 在 **[这个 Issue 留言](https://github.com/zhangmiao067/zhangmiao067/issues/1)**
-- 📄 **投具体岗位** → 打开对应岗位 Issue，用里面的来源链接直接投（最快），或在该 Issue 下留言让我内推
+- 🟢 **微信**：miaozmaio
+- 📄 **投具体岗位** → 打开对应岗位 Issue，按里面的职位详情投（最快），或在该 Issue 下留言让我内推
 - 🧾 **我的招聘原则** → 见 [自荐 Issue 顶部说明](https://github.com/zhangmiao067/zhangmiao067/issues/1)
 
 留言写清楚就够：**方向 + 现职/学历 + 想看的机会（城市 / 远程 / 薪资期望）+ 简历或 GitHub 链接**。
