@@ -20,6 +20,7 @@ Quant Developer、C++ 交易系统开发、数据开发工程师、后端开发�
 | # | 岗位 | 公司 | 方向 | 地点 |
 | --- | --- | --- | --- | --- |
 | [#13](https://github.com/miaozmaio/hr-open-roles/issues/13) | 交易系统开发工程师（C++） | 某量化公司 · 名称沟通后告知 | 量化 | 🇨🇳 上海浦东 |
+| [#14](https://github.com/miaozmaio/hr-open-roles/issues/14) | 行情数据开发工程师（C++） | 百亿量化私募 | 量化 | 地点待确认 |
 
 ➡️ **[查看全部 open 岗位](https://github.com/miaozmaio/hr-open-roles/issues?q=is%3Aissue+is%3Aopen)** · [量化 `quant`](https://github.com/miaozmaio/hr-open-roles/issues?q=is%3Aissue+is%3Aopen+label%3Aquant)
 
